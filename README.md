@@ -48,12 +48,12 @@ pip install pandas matplotlib seaborn
 ## How to run
 Clone the repository:
 
--git clone https://github.com/your-username/netflix-data-analysis.git
+-git clone https://github.com/your-username/netflix-data-analysis.git  
 -cd netflix-data-analysis
 
 Open the Jupyter notebook:
 
--jupyter notebook notebooks/01-data-cleaning.ipynb
+-jupyter notebook notebooks/01-data-cleaning.ipynb  
 -Explore the cleaned dataset or load it into Power BI/Tableau for dashboard creation.
 
 ## Author
