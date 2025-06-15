@@ -21,6 +21,7 @@ netflix-data-analysis/
 │
 ├── notebooks/
 │ └── 01-data-cleaning.ipynb # Data cleaning & preparation notebook
+│ └── 02-eda.ipynb # Exploratory Data Analysis (EDA) notebook
 │
 ├── reports/
 │ └── netflix_dashboard_preview.pdf # Power BI dashboard exported as PDF
@@ -42,3 +43,22 @@ You can install them using pip:
 
 ```bash
 pip install pandas matplotlib seaborn
+```
+
+## How to run
+Clone the repository:
+
+-git clone https://github.com/your-username/netflix-data-analysis.git
+-cd netflix-data-analysis
+
+Open the Jupyter notebook:
+
+-jupyter notebook notebooks/01-data-cleaning.ipynb
+-Explore the cleaned dataset or load it into Power BI/Tableau for dashboard creation.
+
+## Author
+Ralph Pilapil
+Fresh IT Graduate exploring Data Analytics, Python, and BI Tools.
+
+##  Star This Repo
+If you found this project helpful or insightful, consider giving it a ⭐ on GitHub to support more learning-based projects!
