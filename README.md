@@ -11,6 +11,8 @@ This project explores and analyzes the Netflix Titles dataset using Python and J
 
 ## Project Structure
 
+```
+
 netflix-data-analysis/
 │
 ├── datasets/
@@ -25,8 +27,7 @@ netflix-data-analysis/
 │
 └── README.md # Project overview and instructions
 
----
-
+```
 ## Dependencies
 
 Make sure you have the following installed:
