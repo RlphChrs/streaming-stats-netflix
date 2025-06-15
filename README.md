@@ -57,7 +57,7 @@ Open the Jupyter notebook:
 -Explore the cleaned dataset or load it into Power BI/Tableau for dashboard creation.
 
 ## Author
-Ralph Pilapil/
+Ralph Pilapil  
 Fresh IT Graduate exploring Data Analytics, Python, and BI Tools.
 
 ##  Star This Repo
