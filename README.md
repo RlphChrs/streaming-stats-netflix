@@ -24,7 +24,8 @@ netflix-data-analysis/
 │ └── 02-eda.ipynb # Exploratory Data Analysis (EDA) notebook
 │
 ├── reports/
-│ └── netflix_dashboard_preview.pdf # Power BI dashboard exported as PDF
+│ └── dashboard_powerBI.pbix # Power BI dashboard for desktop
+│ └── dashboard_powerBI.pdf # Power BI dashboard exported as pdf for easy preview
 │
 └── README.md # Project overview and instructions
 
@@ -55,6 +56,9 @@ Open the Jupyter notebook:
 
 -jupyter notebook notebooks/01-data-cleaning.ipynb  
 -Explore the cleaned dataset or load it into Power BI/Tableau for dashboard creation.
+
+## Dataset Source
+This project uses the Netflix Titles Dataset available on Kaggle.  
 
 ## Author
 Ralph Pilapil  
